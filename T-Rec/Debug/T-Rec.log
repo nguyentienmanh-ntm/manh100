@@ -1,0 +1,6 @@
+﻿  T-Rec.cpp
+C:\Users\tuanu\Desktop\T-REX-GAME-main\T-Rec\T-Rec.cpp(143,5): warning C4551: function call missing argument list
+C:\Users\tuanu\Desktop\T-REX-GAME-main\T-Rec\T-Rec.cpp(144,5): warning C4551: function call missing argument list
+C:\Users\tuanu\Desktop\T-REX-GAME-main\T-Rec\T-Rec.cpp(249,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tuanu\Desktop\T-REX-GAME-main\T-Rec\T-Rec.cpp(342,60): warning C4101: 'srcCoin': unreferenced local variable
+  T-Rec.vcxproj -> C:\Users\tuanu\Desktop\T-REX-GAME-main\Debug\T-Rec.exe
